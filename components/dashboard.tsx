@@ -202,7 +202,7 @@ export function Dashboard({ user, onLogout, onOpenProject }: DashboardProps) {
               <Code className="w-6 h-6 text-white" />
             </div>
             <div>
-              <h1 className="text-xl font-bold text-white">Code Editor</h1>
+              <h1 className="text-xl font-bold text-white">Web-weaver</h1>
               <p className="text-sm text-gray-400">Build amazing web projects</p>
             </div>
           </div>
