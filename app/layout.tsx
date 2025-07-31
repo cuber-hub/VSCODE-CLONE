@@ -5,8 +5,8 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Webweaver',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  description: 'Webweaver is a fast, modern, and intuitive code editor built for web developers. Easily write, edit, and preview HTML, CSS, and JavaScript code in real-time — all within your browser. Boost your productivity with smart features, clean UI, and a seamless development experience.',
+ keywords: ['Webweaver', 'code editor', 'web development', 'online code editor', 'HTML editor', 'CSS editor', 'JavaScript editor', 'browser code editor', 'real-time preview', 'web dev tools', 'online IDE'],
 }
 
 export default function RootLayout({
