@@ -865,16 +865,7 @@ export default function CodeEditor({ project, user, onBackToDashboard, onSavePro
           </div>
         </div>
       </div>
-
-      {/* Instructions */}
-      <div className="bg-gray-800 border-t border-gray-700 p-3">
-        <p className="text-gray-300 text-sm">
-          <strong>Auto-Save:</strong> Changes saved automatically after 1 second |<strong> Content Preserved:</strong>{" "}
-          Switch between tabs without losing changes |<strong> Emmet:</strong> Type{" "}
-          <kbd className="bg-gray-700 px-1 rounded">!</kbd> for HTML5 boilerplate, "div.container", "ul&gt;li*3" | Press{" "}
-          <kbd className="bg-gray-700 px-1 rounded">Tab</kbd> to expand
-        </p>
-      </div>
+    
     </div>
   )
 }
